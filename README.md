@@ -1,16 +1,13 @@
-## Hi there 👋
 
-<!--
-**nyangie101/nyangie101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Good morning, good afternoon, good evening!
+My name is Angie. I am a law student moonlighting as a game developer. It's a pleasure to meet you.
 
-Here are some ideas to get you started:
+## Game Development
+- **Co-founder and Lead Writer** at Happy Cat Games (December 2024 - Present)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hobbies
+- Reading 📚
+- Film 🎥
+- Gaming 🎮
+- Writing 📝
+- Music 🎸
